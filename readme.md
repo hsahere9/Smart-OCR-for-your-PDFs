@@ -17,6 +17,9 @@ With just two Python scripts, users can extract text and instantly search throug
     Harnek Singh Adi 
 
 ![image](https://github.com/user-attachments/assets/5e48a36a-1118-4c80-972c-22177d8aba22)
+![image](https://github.com/user-attachments/assets/b52cb65f-f3bc-42ef-baaa-a652ff600850)
+![image](https://github.com/user-attachments/assets/56145aed-d9c3-42df-8970-5f10bc9d9b52)
+
 
 ## 🚀 About Me
 just a lazy-guy 
