@@ -1,11 +1,11 @@
 
 # Project Title
 
-This project is a simple yet powerful PDF OCR tool that extracts text from scanned PDF documents using Optical Character Recognition (OCR). It is designed for:
+This project is a simple yet powerful images OCR tool that extracts text from scanned images using Optical Character Recognition (OCR). It is designed for:
 
-Students, researchers, and professionals who need to convert image-based PDFs into searchable, editable text.
+Students, researchers, and professionals who need to convert image-based images into searchable, editable text.
 
-Anyone looking to search for specific words or phrases inside scanned PDFs.
+Anyone looking to search for specific words or phrases inside scanned images.
 
 With just two Python scripts, users can extract text and instantly search through the content — making scanned documents far more usable.
 
@@ -59,7 +59,7 @@ Poor support for accents and multilingual characters.
 
 Image quality was altered or degraded.
 
-Outputs were too large or not valid PDFs.
+Outputs were too large or not valid image.
 
 None supported proper PDF/A for long-term storage.
 
